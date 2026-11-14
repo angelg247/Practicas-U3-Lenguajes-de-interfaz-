@@ -12,18 +12,6 @@
 
 Para ir al codigo haga click sobre la practica
 
-Prácticas de Lenguajes de Interfaz - Unidad 3
-
-Alumno: Grande Espinoza Jose Angel
-
-Horario: 8:00 - 9:00
-
-Docente: Jose Luis Medina Jimenez
-
-Este repositorio contiene las prácticas desarrolladas en lenguaje ensamblador x86 utilizando la librería Irvine32 en Visual Studio para la Unidad 3.
-
-Descripción y Comprobación de las Prácticas
-
 1. [U3 PRACTICA 01 - PROCEDIMIENTOS](https://github.com/angelg247/Practicas-U3-Lenguajes-de-interfaz-/blob/main/U3%20PRACTICA%2001-%20PROCEDIMIENTOS/U3%20PRACTICA%2001-%20PROCEDIMIENTOS/Main.asm)
 
 En esta práctica se implementa la modularización con procedimientos con las instrucciones call y ret para saltar y retornar entre bloques, y al ejecutar el programa comprobe que el apuntador  regresa de manera correcta al punto exacto del main sin perder el orden de ejecucion.
