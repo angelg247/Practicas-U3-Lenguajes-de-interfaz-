@@ -39,6 +39,7 @@ Esta práctica consiste en evaluar entradas utilizando comparaciones con cmp y s
 4. [U3 PRACTICA 04 - MANEJO DE PILA MANUAL](https://github.com/angelg247/Practicas-U3-Lenguajes-de-interfaz-/tree/main/U3%20PRACTICA%2004-%20MANEJO%20DE%20PILA%20MANUAL)
 
 En esta practica se implementa el paso manual de argumentos a traves de la pila con push y la creacion de un marco de pila mediante los ebp y esp,  y al ejecutar el programa comprobé que es posible recuperar los valores enviados desde el procedimiento principal mediante desplazamientos de memoria para realizar operaciones y liberar correctamente el espacio con ret 8.
+
 5. [U3 PRACTICA 05 - MACROS](https://github.com/angelg247/Practicas-U3-Lenguajes-de-interfaz-/blob/main/U3%20PRACTICA%2005-%20MACROS/U3%20PRACTICA%2005-%20MACROS/Main.asm)
 
 En esta práctica utilizasmos directivas de macros (MACRO y ENDM) para automatizar tareas repetitivas como imprimir textos y realizar multiplicaciones, y al correr el programa confirme que se reutiliza el codigo y simplifica la estructura de las instrucciones.
