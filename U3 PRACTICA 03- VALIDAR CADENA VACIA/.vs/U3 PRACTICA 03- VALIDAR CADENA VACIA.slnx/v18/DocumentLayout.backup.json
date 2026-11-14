@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JoseA\\source\\repos\\Practicas Ensamblador Unidad3\\U3 PRACTICA 03- VALIDAR CADENA VACIA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22208B46-BB57-452E-8E6D-36A995841A78}|U3 PRACTICA 03- VALIDAR CADENA VACIA\\U3 PRACTICA 03- VALIDAR CADENA VACIA.vcxproj|C:\\Users\\JoseA\\source\\repos\\Practicas Ensamblador Unidad3\\U3 PRACTICA 03- VALIDAR CADENA VACIA\\U3 PRACTICA 03- VALIDAR CADENA VACIA\\Main.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{22208B46-BB57-452E-8E6D-36A995841A78}|U3 PRACTICA 03- VALIDAR CADENA VACIA\\U3 PRACTICA 03- VALIDAR CADENA VACIA.vcxproj|solutionrelative:U3 PRACTICA 03- VALIDAR CADENA VACIA\\Main.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.asm",
+              "DocumentMoniker": "C:\\Users\\JoseA\\source\\repos\\Practicas Ensamblador Unidad3\\U3 PRACTICA 03- VALIDAR CADENA VACIA\\U3 PRACTICA 03- VALIDAR CADENA VACIA\\Main.asm",
+              "RelativeDocumentMoniker": "U3 PRACTICA 03- VALIDAR CADENA VACIA\\Main.asm",
+              "ToolTip": "C:\\Users\\JoseA\\source\\repos\\Practicas Ensamblador Unidad3\\U3 PRACTICA 03- VALIDAR CADENA VACIA\\U3 PRACTICA 03- VALIDAR CADENA VACIA\\Main.asm",
+              "RelativeToolTip": "U3 PRACTICA 03- VALIDAR CADENA VACIA\\Main.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-11-14T06:22:39.223Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
